@@ -1,3 +1,0 @@
-Name: Chaitrali kakde
-Skills: HTML, CSS, JS, Next.js
-Email: kakdechaitrali16@gmail.com
